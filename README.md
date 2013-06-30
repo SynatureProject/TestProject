@@ -1,3 +1,0 @@
-TestProject
-===========
-Test Project
