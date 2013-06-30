@@ -4,6 +4,8 @@ using System.Drawing;
 using System.Windows.Forms;
 using XPTable.Models;
 
+//--- Testing for GitHub
+
 namespace pRoMiSeFingerPrintRegisterV6
 {
     public partial class FormFingerPrintRegister : Form
