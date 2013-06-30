@@ -1,0 +1,6 @@
+[submodule "TestKrich"]
+	path = TestKrich
+	url = https://github.com/KrichSynature/TestKrich.git
+[submodule "TestKrich2"]
+	path = TestKrich2
+	url = https://github.com/KrichSynature/TestKrich.git
