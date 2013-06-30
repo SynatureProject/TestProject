@@ -79,7 +79,12 @@
     <Compile Include="krit\Form2.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="krit\POSAdditionalProgramVariable.vb" />
+    <Compile Include="krit\POSDataClass.vb" />
+    <Compile Include="krit\POSErrorNo.vb" />
+    <Compile Include="krit\POSGlobalEnum.vb" />
     <Compile Include="krit\POSJobOrderSQL.vb" />
+    <Compile Include="krit\POSPaymentDataClass.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
