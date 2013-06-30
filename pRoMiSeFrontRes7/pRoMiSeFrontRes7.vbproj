@@ -115,12 +115,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Louis\FormFingerPrintRegister.cs" />
     <Content Include="pRoMiSeFrontRes.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="FrontLayout\" />
     <Folder Include="Log\" />
-    <Folder Include="Loust\" />
     <Folder Include="pRoMiSeCommonc\" />
     <Folder Include="Resources\" />
   </ItemGroup>
